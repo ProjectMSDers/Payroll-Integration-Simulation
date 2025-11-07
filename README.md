@@ -4,8 +4,8 @@
 Link HR data with payroll processes
 
 ## 📌 Scope  
-•	Maintain worker salary details.
-•	Simulate payroll calculation using integrated module.
-•	Post payroll results to Finance.
-•	Generate payroll register reports.
+- Maintain worker salary details.
+- Simulate payroll calculation using integrated module.
+- Post payroll results to Finance.
+- Generate payroll register reports.
 
