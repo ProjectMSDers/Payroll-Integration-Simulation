@@ -8,3 +8,4 @@ Link HR data with payroll processes
 •	Simulate payroll calculation using integrated module.
 •	Post payroll results to Finance.
 •	Generate payroll register reports.
+
