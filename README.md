@@ -1,4 +1,4 @@
-# Dynamics 365 HR – Payroll Integration Simulation
+# Dynamics 365 HR & Payroll – Payroll Integration Simulation
 
 ## 🎯 Objective  
 Link HR data with payroll processes
