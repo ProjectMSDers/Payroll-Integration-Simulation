@@ -1,0 +1,1 @@
+Payroll Integration Simulation in Microsoft Dynamics 365 Finance & Operations (D365 F&O) is essentially the process of testing how payroll data flows between the HR module and the payroll provider/system before going live. It helps organizations validate data consistency, integration accuracy, and compliance without affecting real financial transactions.
