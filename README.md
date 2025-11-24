@@ -14,6 +14,7 @@ Link HR data with payroll processes
 - Eslam Abdrabo
 - Ahmad Khalil
 - Walaa Ismail
+- Ahmed Abdelshafi
 
 ## 📎 Deliverables  
 - **Documentation** → detailed setup steps and final project report.  
